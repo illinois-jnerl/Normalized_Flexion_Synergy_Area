@@ -72,3 +72,12 @@ python emg_analysis_with_slope.py
 
 - **NFSA (%)**: Indicates the extent of synergistic biceps activation during shoulder abduction.  
 - **Average Slope**: Reflects the rate of increase in synergistic biceps activation with increasing deltoid activity.
+
+----------------------------------------------------------------
+Please contact Dr. Yuan Yang (yuany@illinois.edu) for more information.
+
+The code is associated with our paper:
+
+[1] Sinha, N., Dewald, J. P. A., & Yang, Y. (2024). Perturbation-induced electromyographic activity is predictive of flexion synergy expression and a sensitive measure of post-stroke motor impairment. 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 1–4.
+
+[2] Sung, J., Rajabtabar, M., Mulyana, B., Peng, H.-T., Yang, Y. (2024). The Expression of Flexion Synergy Enhances Spasticity in Stroke. 2024 SOCIETY for NEUROSCIENCE (SfN).
